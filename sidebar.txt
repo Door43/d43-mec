@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mec:home|Door43 (mec)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mec|d43-mec repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mec/archive/master.zip|d43-mec.zip]]
+
+**Recent Changes**
+{{changes>ns = mec}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mec|Ethnologue data]]
+
